@@ -1,0 +1,6 @@
+.venv/
+.git/
+__pycache__/
+.pdm-python
+pdm.lock
+pyproject.toml
