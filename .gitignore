@@ -1,6 +1,9 @@
 .venv/
 .git/
 __pycache__/
+data/raw/
+data/processed/
+data/interim/
 .pdm-python
 pdm.lock
 pyproject.toml
