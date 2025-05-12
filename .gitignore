@@ -7,3 +7,4 @@ data/interim/
 .pdm-python
 pdm.lock
 pyproject.toml
+*.ipynb_checkpoints
